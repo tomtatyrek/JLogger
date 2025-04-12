@@ -14,7 +14,7 @@ public class JLogger {
 
     private File logFile;
     private BufferedWriter writer;
-    private DateTimeFormatter dtf = DateTimeFormatter.ofPattern("HH:mm:ss:SSS");
+    private final DateTimeFormatter dtf = DateTimeFormatter.ofPattern("HH:mm:ss:SSS");
     private LocalDateTime now;
 
     /**

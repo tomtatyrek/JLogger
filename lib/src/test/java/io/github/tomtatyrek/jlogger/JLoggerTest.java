@@ -1,8 +1,7 @@
-package cz.tomtatyrek.jlogger;
+package io.github.tomtatyrek.jlogger;
 
 import org.junit.Test;
 
-import java.io.File;
 import java.io.IOException;
 import java.nio.file.FileSystems;
 

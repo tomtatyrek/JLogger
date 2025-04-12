@@ -1,4 +1,4 @@
-package cz.tomtatyrek.jlogger;
+package io.github.tomtatyrek.jlogger;
 
 import java.io.*;
 import java.nio.file.FileSystems;
